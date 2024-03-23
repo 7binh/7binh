@@ -1,80 +1,85 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
+<div align="center">
+  <img height="150" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbKK8p51w7Y4AFV63tYfGrg2GJcDjj3367mZ10cdC5MJ_v1yBFrEwhWi753t4bAfv1u4O1KZURqTYwtfCMhThXo-DDaYg=w1859-h946"  />
+</div>
 
-        @keyframes gradient {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
-        }
+###
 
-        .container {
-          --color-main: #5452ee;
-          --color-primary: #e73c7e;
-          --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
+<div align="center">
+  <a href="https://www.youtube.com/@KaitoNTB/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://dribbble.com/sevenbinh7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.facebook.com/kaitontb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
-          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
-          background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
+###
 
-          width: 100%;
-          height: 300px;
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=7binh.7binh&"  />
+</div>
 
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          color: white;
+###
 
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        }
+<h1 align="center">hey there 👋</h1>
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
-        }
+###
 
-        @media (prefers-color-scheme: light) {
-          .container {
-            --color-main: #F15BB5;
-            --color-primary: #24b0ef;
-            --color-secondary: #4526f6;
-            --color-tertiary: #f6f645;
-          }
-        }
+<h3 align="left">💫 ABOUT ME</h3>
 
-        @media (prefers-reduced-motion) {
-          .container {
-            animation: none;
-          }
+###
+  <p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>🌱 I want to learn what’s good and beautiful<br>💬 Ask me what you can<br>⚡ I will always listen to you<br>----------------<br>📚 Proficient in HTML, CSS, and JavaScript.<br>💻 Experienced with front-end frameworks like ReactJS, Vue.js, and Angular.<br>🛠️ Familiar with web development tools such as Webpack, Babel, and ESLint.<br>🎨 Possess design skills to craft creative and user-friendly interfaces.</p>
 
-          .hi {
-            animation: none;
-          }
-        }
-      </style>
+###
 
-      <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<p align="left"></p>
+
+###
+
+<h3 align="center">🛠 LANGUAGE AND TOOLS</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+</div>
+
+###
+
+<h3 align="center">🔥   MY STATS 🔥</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=7binh&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZ9Wj1nMHBwGjvEHF2odENsxAwOofdTUZ94z-Q6_cJp2qLYIgc6oohw3LE4FB5MAqEYsjUET4AYB2GgwnBQ1xTb7nq9-g=w1859-h946"  />
+</div>
+
+###
