@@ -32,7 +32,7 @@
 <h3 align="left">💫 ABOUT ME</h3>
 
 ###
-  <p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>🌱 I want to learn what’s good and beautiful<br>💬 Ask me what you can<br>⚡ I will always listen to you<br>----------------<br>📚 Proficient in HTML, CSS, and JavaScript.<br>💻 Experienced with front-end frameworks like ReactJS, Vue.js, and Angular.<br>🛠️ Familiar with web development tools such as Webpack, Babel, and ESLint.<br>🎨 Possess design skills to craft creative and user-friendly interfaces.</p>
+  <p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>💬 Ask me what you can<br>⚡ I will always listen to you<br>----------------<br>📚 Proficient in HTML, CSS, and JavaScript.<br>💻 Experienced with front-end frameworks like ReactJS, Vue.js, and Angular.<br>🛠️ Familiar with web development tools such as Webpack, Babel, and ESLint.<br>🎨 Possess design skills to craft creative and user-friendly interfaces.</p>
 
 ###
 
