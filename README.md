@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>🌱 I want to learn what’s good and beautiful<br>💬 Ask me what you can<br>⚡ I will always listen to you</p>
+<p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>💬 Ask me what you can<br>⚡ I will always listen to you</p>
 
 ###
 
