@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="150" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbKK8p51w7Y4AFV63tYfGrg2GJcDjj3367mZ10cdC5MJ_v1yBFrEwhWi753t4bAfv1u4O1KZURqTYwtfCMhThXo-DDaYg=w1859-h946"  />
 </div>
@@ -11,7 +13,9 @@
   <a href="https://dribbble.com/sevenbinh7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://gmail.com/inbox/sevenbinh7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   <a href="https://www.facebook.com/kaitontb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
@@ -32,7 +36,16 @@
 <h3 align="left">💫 ABOUT ME</h3>
 
 ###
-  <p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>💬 Ask me what you can<br>⚡ I will always listen to you<br>----------------<br>📚 Proficient in HTML, CSS, and JavaScript.<br>💻 Experienced with front-end frameworks like ReactJS, Vue.js, and Angular.<br>🛠️ Familiar with web development tools such as Webpack, Babel, and ESLint.<br>🎨 Possess design skills to craft creative and user-friendly interfaces.</p>
+
+<p align="left">I'm Seven Nguyen from Ho Chi Minh City, Viet Nam<br><br>🌱 I want to learn what’s good and beautiful<br>💬 Ask me what you can<br>⚡ I will always listen to you</p>
+
+###
+
+<p align="left">📚 Proficient in HTML, CSS, and JavaScript.<br>💻 Experienced with front-end frameworks like ReactJS, Vue.js, and Angular.<br>🛠️ Familiar with web development tools such as Webpack, Babel, and ESLint.<br>🎨 Possess design skills to craft creative and user-friendly interfaces.</p>
+
+###
+
+<p align="left">📫 How to reach me: sevenbinh7@gmail.com</p>
 
 ###
 
